@@ -1,3 +1,4 @@
 langserve
 fastapi
 uvicorn
+sse_starlette

@@ -5,3 +5,6 @@ sse_starlette
 ipykerel
 chromadb
 fiass-cpu
+groq
+langchain-groq
+breautifulsoup4
